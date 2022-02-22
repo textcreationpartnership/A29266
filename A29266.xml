@@ -1,0 +1,296 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The excellency of primitive government in a sermon preach'd at Guild-Hall Chappel at the election of this present Lord Mayor / by Henry Bagshaw ...</title>
+            <author>Bagshaw, Henry, 1632-1709.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1673</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 40 KB of XML-encoded text transcribed from 20 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A29266</idno>
+            <idno type="STC">Wing B430</idno>
+            <idno type="STC">ESTC R16670</idno>
+            <idno type="EEBO-CITATION">11733159</idno>
+            <idno type="OCLC">ocm 11733159</idno>
+            <idno type="VID">48428</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A29266)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 48428)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 10:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The excellency of primitive government in a sermon preach'd at Guild-Hall Chappel at the election of this present Lord Mayor / by Henry Bagshaw ...</title>
+                  <author>Bagshaw, Henry, 1632-1709.</author>
+               </titleStmt>
+               <extent>[4], 35 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by W. Godbid, for Joseph Nevil ..., and Moses Pitt ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1673.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Waterman Mayor. Octobr. 26, Die. 1672 ... it is order'd ... that Dr. Bagshaw be desired to print his sermon which he preach'd ... at the election of Sir Robert Hanson to be Lord Mayor"</note>
+                  <note>Reproduction of original in British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Hanson, Robert, d. 1680.</term>
+               <term>Sermons, English.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-12</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2012-12</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:48428:1" rendition="simple:additions"/>
+            <pb facs="tcp:48428:1" rendition="simple:additions"/>
+            <p>
+               <hi rend="blackletterType">The Excellency of Primitive Government:</hi> IN A SERMON <hi>PREACH'D</hi> At <hi>G<g ref="char:V">Ʋ</g>ILD-HALL</hi> CHAPPEL AT THE Election of this preſent LORD MAYOR.</p>
+            <p>By <hi>HENRY BAGSHAW,</hi> D. D. Chaplain to the Lord Arch-biſhop of YORK, and Rector of St. <hi>Botolphs Biſhopſgate.</hi>
+            </p>
+            <floatingText type="license" xml:lang="eng" subtype="order_to_print">
+               <body>
+                  <head>Waterman Mayor.</head>
+                  <opener>
+                     <dateline>
+                        <date>Octobr. <hi>26.</hi> Die. <hi>1672.</hi> Annoque <hi>CAROLI</hi> Secundi Angliae Vigeſimo quarto.</date>
+                     </dateline>
+                  </opener>
+                  <p>It is Order'd by this Court that Dr. <hi>Bagſhaw</hi> be deſired to Print his Sermon which he Preach'd before the Lord Mayor, and Aldermen, at <hi>Guild-Hall-Chappel,</hi> on <hi>Michael<g ref="char:EOLhyphen"/>mas-Day</hi> laſt, at the Election of Sir ROBERT HANSON to be Lord Mayor for the Year enſuing. </p>
+                  <closer>
+                     <signed>Wagſtaffe.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>W. Godbid,</hi> for <hi>Joſeph Nevil</hi> at the <hi>Grey-Hound</hi> 
+               <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> St. <hi>Pauls-Church-Yard,</hi> and <hi>Moſes Pitt</hi> at the <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Hart</hi> in <hi>Little-Britain,</hi> MDCLXXIII.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:48428:2"/>
+            <pb facs="tcp:48428:2"/>
+            <head>To the Right Honourable Sir <hi>ROBERT HANSON</hi> LORD MAYOR of the City of <hi>LONDON:</hi> AND THE Honourable Court of ALDERMEN.</head>
+            <opener>
+               <salute>RIGHT HONOURABLE,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Have publiſh'd this enſuing Diſ<g ref="char:EOLhyphen"/>courſe in obedience to the <hi>Order</hi> I receiv'd from You. I know I deliver not here my own ſenſe, but that You all joyntly concur in this Teſti<g ref="char:EOLhyphen"/>mony, that nothing is ſo ſafe as an <hi>old Pattern</hi> in Rule, nothing ſo Honourable, as the <hi>Name of Righteouſneſs</hi> to crown it. Should no<g ref="char:EOLhyphen"/>velty of Manners and of Diſcipline get in, <hi>States</hi> grow looſe and unbound: Should Power be reckon'd for true Glory, they quickly be<g ref="char:EOLhyphen"/>come Barbarous; but when Primitive Practice gives the Form, and Religion the Character, then Government appears in all
+<pb facs="tcp:48428:3"/>its Strength and Beauty. This is the Subject I ſpeak to: Yet notwithſtanding the truth of it, I may reaſonably expect the Cenſures of corrupt men, who have all the levity of Judg<g ref="char:EOLhyphen"/>ment in deviſing new Models, and the Vanity of Paſſion in courting a Great Name: The one ſerving to unſettle the Subject, and the other to terrify. But I hope an <hi>Ancient</hi> and <hi>Chriſtian</hi> City, as this is, will purſue Ancient Examples as their beſt Guide, and the Fame of Piety as their Nobleſt reward. That You may Flouriſh in both is the Earnest Prayer of</p>
+            <closer>
+               <signed>Your Honours moſt Humble Servant, HENRY BAGSHAW.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:48428:3"/>
+            <head>THE EXCELLENCY OF PRIMITIVE GOVERNMENT.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>ISAIAH 1.26.</hi>
+                  </bibl>
+                  <p>And I will reſtore thy Judges, as at the first, and thy Counſellours, as at the beginning; afterwards thou ſhalt be called the City of Righteouſneſs, the Faithful City.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">I</seg>N the foregoing Verſe of this Chapter God declares the Mer<g ref="char:EOLhyphen"/>cy he deſign'd the City <hi>Jeruſa<g ref="char:EOLhyphen"/>lem;</hi> which was to ſit over it, like a tryer or purifier of Metals, that clen<g ref="char:EOLhyphen"/>ſeth away all the <hi>droſs</hi> and corrupt mixtures of their Body. The Fire that ſhould do this upon the <hi>Jews,</hi> was the Fire of Af<g ref="char:EOLhyphen"/>fliction, which naturally is not uſeful to the Patient, as having nothing elſe in it but conſuming qualities; but God would over-rule them by his Power to reform.
+<pb n="2" facs="tcp:48428:4"/>After he had ſufficiently chaſten'd his peo<g ref="char:EOLhyphen"/>ple, the fruit of that Work ſhould be a Uni<g ref="char:EOLhyphen"/>verſal change: No more of <hi>Tin</hi> or Hypo<g ref="char:EOLhyphen"/>critical Wickedneſs in the Land, but <hi>Silver refind, i. e.</hi> a heart pure and upright in its Religion. Thus God makes his Judgments ſerviceable to his Church; and the ſame Rod, that cauſed the Wound, to flouriſh again with bloſſoms for its healing. But becauſe a Kingdom cannot be long ſetled in a Religious Courſe without good Ma<g ref="char:EOLhyphen"/>giſtrates ſet over it, who may bind Subjects both by Authority and example; God provides here Governours in my Text to compleat the bleſſing he promiſes; which would be otherwiſe imperfect, and by con<g ref="char:EOLhyphen"/>ſequence the Fame of a Reformation very ſmall, were not ſuch powerful Inſtruments employ'd. Theſe are the right Nurſing-Fathers that breed up a Church, and the nobleſt Heraulds to proclaim it to the World. <hi>And I will restore thy Judges as at the first,</hi> &amp;c. —</p>
+            <pb n="3" facs="tcp:48428:4"/>
+            <p>I ſhall not now inquire into the time when this Promiſe of Gods was fulfill'd; whether preſently after the <hi>Babyloniſh capti<g ref="char:EOLhyphen"/>vity,</hi> under <hi>Zerubbabel, Ezra</hi> and <hi>Nebe<g ref="char:EOLhyphen"/>miah;</hi> or rather in the days of the Goſpel, when <hi>pious rulers</hi> did praeſide in the <hi>Church;</hi> but conſider the Words barely in them<g ref="char:EOLhyphen"/>ſelves, and ſo they afford as theſe Obſer<g ref="char:EOLhyphen"/>vables:
+<list>
+                  <item>1. That the Gift of Magiſtracy is from God.</item>
+                  <item>2. That a People is highly bleſs'd with that Gift, when Magiſtrates are reſtored by him according to a Primitive Pattern — <hi>Judges as at the firſt, and Counſellors as at the beginning.</hi>
+                  </item>
+                  <item>3. That the Natural Iſſue of a Go<g ref="char:EOLhyphen"/>vernment thus qualifi'd, is the Re<g ref="char:EOLhyphen"/>putation of Uprightneſs and truth in all the Members — <hi>Afterwards thou ſhalt be call'd the City of righ<g ref="char:EOLhyphen"/>teouſneſs, the faithful City.</hi>
+                  </item>
+               </list>
+            </p>
+            <pb n="4" facs="tcp:48428:5"/>
+            <p n="1">I. That the Gift of Magiſtracy is from God.</p>
+            <p>There are indeed Powers, that ſet up themſelves, mock Judges that counterfeit a Law, but the true order of <hi>Government</hi> is immediately to be fetch'd from Gods Inſtitution. The firſt have no other right than what Sin and Satan has; the one being permitted to infect, and the other to vex the World: but the latter peculiarly bears his ſoveraign character. Therefore to him the <hi>Apoſtle</hi> refers all the original of worldly rule;
+<note place="margin">
+                  <hi>Rom.</hi> 13.1.</note> and though the Kinds of it in States may be determined by men, yet the thing it ſelf is of a Divine Eſtabliſh<g ref="char:EOLhyphen"/>ment. That which leads men to joyn in Societies, and appoint Governours, as the links to hold them together, is the very <hi>in<g ref="char:EOLhyphen"/>ſtinct</hi> of <hi>Natures Law,</hi> which dictates to us all the neceſſary ways, that conduce to the Peace and Intereſt of one another. Should we now ſearch for the Author of this <hi>Inſtinct,</hi> we ſhall find it to be none
+<pb n="5" facs="tcp:48428:5"/>elſe but God himſelf, who has engrav'd this notion in every mans Soul, whence we ought to conclude, that it is he who works in our Appointment.</p>
+            <p>How common that ſtamp and impreſſi<g ref="char:EOLhyphen"/>on is, may be eaſily evinc'd from the Practi<g ref="char:EOLhyphen"/>ſes of the World; who as they are gene<g ref="char:EOLhyphen"/>rally inclin'd to enter into fellowſhip, ſo do they as generally agree in the manner of their Union; and that is by ſetting up ſome Coercive Power, to reſtrain the wildneſs of living, which an uncontroll'd freedom would certainly lead them to.</p>
+            <p>We can all preſently conclude that a State of <hi>abſolute Liberty</hi> is a State of War, and Unſettlement; every one then provi<g ref="char:EOLhyphen"/>ding for himſelf, and ſtriving to maintain his own Intereſt to the Prejudice of others; which being a Life of wrong and Violence, is utterly repugnant to the happineſs of our Beings. And this we all find out by the force of <hi>Natural Diſcourſe:</hi> Which <hi>light</hi> God being the Author of, when we ſet
+<pb n="6" facs="tcp:48428:6"/>
+               <hi>Magiſtrates</hi> over us for the remedying of thoſe evils, we are not ſo rightly ſaid to <hi>make,</hi> as to <hi>diſcover</hi> that Order he has pro<g ref="char:EOLhyphen"/>pos'd. In that Univerſal Judgment we have of its Uſe, God is the giver of the Sentence; and we ought to refer it to ſo Univerſal a Cauſe.</p>
+            <p>Beſides this that I have ſaid, the very Good we reap from <hi>Magistracy,</hi> does ſuffi<g ref="char:EOLhyphen"/>ciently ſhow its Original, and that the In<g ref="char:EOLhyphen"/>ſtitution of it ſprings from ſuch a God, that tenderly regards our Well-being. Here the Concern of Providence is made known, in thus bleſſing Mankind, and fixing their Condition: which might be otherwiſe queſtion'd, ſhould it extend to other Creatures below, in ſetting a rule to their operations, and leave the nobleſt without Principles implanted in him for eſtabliſhing his Peace. But by the benefit of <hi>Dominion</hi> (which redounds to us all) we trace the goodneſs of the Moſt High: In that <hi>Copy</hi> we ſee lively repreſentations
+<pb n="7" facs="tcp:48428:6"/>of Himſelf, and expreſs <hi>characters</hi> of his Mercy. Do we not all allow it to be his Work, when we ſee contrary <hi>Principles</hi> unite, and harmoniouſly agree to the Pro<g ref="char:EOLhyphen"/>duction of things? In the ſame manner ought we to acknowledge his Hand, when we conſider how the contentious natures of men are ſo far reconcil'd, as to beget <hi>Order</hi> in the World. Behold here the glo<g ref="char:EOLhyphen"/>rious Marks of a Benefactor! who ſeems to create us anew by conforming us to <hi>rule,</hi> and gives to each all the goods of Man<g ref="char:EOLhyphen"/>kind by ſetling a mutual enjoyment. What can more expreſs him in his Power (and that Power mercifully exercis'd) then <hi>hu<g ref="char:EOLhyphen"/>mane Government?</hi> For by this the ſtate of things is repair'd, and the very ſpirits of men at once aw'd and better'd, which are the Proper effects of <hi>Divinity.</hi>
+            </p>
+            <p>It is a true Title given to <hi>Magistrates</hi> in the <hi>Pſalmiſt,</hi>
+               <note place="margin">
+                  <hi>Pſal.</hi> 8<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 6.</note> where God is introduc'd ſpeaking to them after the delivery of their Commiſſion, <hi>I have ſaid ye are Gods;</hi> for
+<pb n="8" facs="tcp:48428:7"/>while they are in that ſtation they ceaſe to be common Men, and ſhare in the Autho<g ref="char:EOLhyphen"/>rity of their Soveraign; whereby both they are taught to act like Gods, and Subjects to revere them. Should <hi>Magiſtrates</hi> omit Works of Juſtice and Mercy, (which juſti<g ref="char:EOLhyphen"/>fy that high name) they are no more <hi>Gods,</hi> but <hi>Idols;</hi> nay, the worſt ſort of <hi>Idols,</hi> that being made to repreſent, do yet foully re<g ref="char:EOLhyphen"/>proach Divine Power: On the other ſide ſhould People reſiſt, libel, or abuſe them, and ſo ſtrive to deface the marks of their Greatneſs, they ſtrike at the Majeſty of the Supreme. We may all learn Duty, from conſidering that God is the Founder of <hi>humane Government;</hi> and therefore the ends of that Foundation ought to be an<g ref="char:EOLhyphen"/>ſwer'd by a right Influence of the Head, and a due obedience in the parts govern'd. Thus much for the Firſt Obſervable.</p>
+            <p n="2">II. That a People is highly bleſs'd with that Gift, when Magiſtrates are reſtor'd by him according to a Primitive Pattern —
+<pb n="9" facs="tcp:48428:7"/>
+               <hi>Judges as at the first, and Counſellours as at the beginning.</hi>
+            </p>
+            <p>As the Truth of <hi>Religion</hi> is to be found out by examining what was delivered at the beginning; ſo is the Excellency of <hi>Go<g ref="char:EOLhyphen"/>vernment</hi> by the ſame method to be ſhown. Errours in <hi>Faith</hi> and defects in <hi>Politiques,</hi> may be both charged with Novelty; for though they may bear a long Date in the World, yet there is a degenerating in both from firſt Principles. Such is the corruption of Mans Nature, that by de<g ref="char:EOLhyphen"/>grees it ſpoils his private belief and his pub<g ref="char:EOLhyphen"/>lick practiſe. There is now adays another <hi>Spirit</hi> in the World, than what our Fore<g ref="char:EOLhyphen"/>fathers were guided by; all our Models are corrupt becauſe our ends are ſo, whereas the purity of <hi>Government</hi> was at firſt retain'd. There the Spring ran clear, and had a whole<g ref="char:EOLhyphen"/>ſomneſs in its current; which was afterwards loſt by being convey'd in a foul channel. Therefore we ought to ask after the old paths, and inquire for the ancient ways to
+<pb n="10" facs="tcp:48428:8"/>walk in, that ſo the bleſſing of Magiſtracy may the more appear. And this will be clear'd by conſidering
+<list>
+                  <item>1. The Perſons that of old did govern.</item>
+                  <item>2. The Rule they follow'd.</item>
+               </list>
+            </p>
+            <p n="1">1 The Perſons that of old did govern.</p>
+            <p>When God form'd a <hi>Republick</hi> amongſt the <hi>Jews</hi> (where he himſelf did immediate<g ref="char:EOLhyphen"/>ly <hi>rule</hi>) a <hi>Moſes,</hi> a <hi>Joſhuah</hi> were his Sub<g ref="char:EOLhyphen"/>ſtitutes; and a <hi>Sanhedrim</hi> of <hi>Elders</hi> with like gifts to aſſiſt them. The <hi>Spirit</hi> (where<g ref="char:EOLhyphen"/>with they were fill'd) was a <hi>Spirit</hi> of <hi>Wiſdom</hi> to direct, and of <hi>Courage</hi> to execute; the <hi>Fire</hi> that inflam'd them was a <hi>Zeal</hi> for <hi>Juſtice;</hi> and the <hi>Principle</hi> of their acting, a <hi>Religious Fear.</hi> Theſe were the <hi>Graces</hi> they then ex<g ref="char:EOLhyphen"/>cell'd in; God taking ſpecial care that a Frame of his own erecting ſhould have ſu<g ref="char:EOLhyphen"/>table Miniſters to keep it. Compare <hi>Jethro</hi>'s counſel to <hi>Moſes</hi> (<hi>Ex.</hi> 18.) with that choice of perſons God afterwards approv'd; and you will find a right ſpeculation ſurely rati<g ref="char:EOLhyphen"/>fied by Examples. That vile ſeparation,
+<pb n="11" facs="tcp:48428:8"/>which <hi>Politicians</hi> have made betwixt <hi>Profit</hi> and <hi>Honesty</hi> was not then known; nor a <hi>pub<g ref="char:EOLhyphen"/>lick Spirit</hi> counted a Paradox. With them Duty and Intereſt were the ſame; <hi>Truth</hi> ſet up there for <hi>Art</hi> of Governing, and <hi>Conſci<g ref="char:EOLhyphen"/>ence</hi> for the <hi>Counſellour.</hi> Whatever actions they entred upon, as they were duly weigh'd, ſo they were vertuouſly purſued; ſo that the <hi>Government</hi> of the Subject in their Days, ſeem'd to be like that of the Creatures in <hi>Paradiſe,</hi> where, He that was veſted in the Dominion, manifeſted the higheſt and moſt difficult kind of Inno<g ref="char:EOLhyphen"/>cence, namely <hi>Integrity of Power.</hi>
+            </p>
+            <p>If we conſult the ancient Hiſtories of the <hi>Heathens</hi> concerning the riſe of their famous Cities, ſuch were <hi>Sparta, Athens,</hi> and <hi>Rome;</hi> we may perhaps find an appearance of ſome gifts in the firſt Rulers of them, <hi>viz.</hi> a ſhow of <hi>Wiſdom and Courage</hi> in their pro<g ref="char:EOLhyphen"/>ceedings: though (if we narrowly ſift the nature of thoſe Qualities) they really miſs'd of them; all their <hi>wiſdom</hi> being lodged in
+<pb n="12" facs="tcp:48428:9"/>the Head of a Serpent that deceives, and their <hi>courage</hi> in the Heart of a Lion that de<g ref="char:EOLhyphen"/>vours. But as for a <hi>Religious Fear,</hi> this was utterly baniſhed from their minds, whence a Conſcience of Duty being laid aſide, a <hi>Zeal</hi> too for <hi>Juſtice</hi> was extinguiſhed. Therefore they are upon no account a pat<g ref="char:EOLhyphen"/>tern to a Chriſtian State; ſince whatever ſeem'd glorious in their acts, it was but a faint reſemblance of good, a colour to diſ<g ref="char:EOLhyphen"/>guiſe a rotten foundation. But from the Jewiſh Model we may collect all that is fit for us to imitate, wherein thoſe Vertues met, that might either adorn or ſupport the Fabrick. I have hinted here but Four they were endued with; to which all other governing Qualities may be reduced; and without which it is impoſſible to make a perfect Guide. Let a <hi>Magistrate</hi> lack <hi>Wiſ<g ref="char:EOLhyphen"/>dom</hi> in his Rule, and he looks contempti<g ref="char:EOLhyphen"/>bly; as <hi>Sampſon</hi> did to the <hi>Philiſtims,</hi> when he laid hold upon the <hi>Pillars without Eyes;</hi> let him want <hi>Courage,</hi> and he looks weakly;
+<pb n="13" facs="tcp:48428:9"/>as <hi>Government</hi> does in <hi>Picture,</hi> where the <hi>Sword is born in vain;</hi> but take once from him the two latter, a <hi>Godly Fear and a Zeal for Justice,</hi> then the very Life of his Work, and the Soul of his Office is gone.</p>
+            <p>Now to reckon up the Follies that a<g ref="char:EOLhyphen"/>bound amongſt Men by reaſon of the <hi>Folly, Cowardiſe, Irreligion,</hi> and <hi>Injuſtice</hi> of <hi>Superi<g ref="char:EOLhyphen"/>ours,</hi> is but to repeat old Remarques, ſadly confirm'd to us by the falls and ruins of many Cities. And the wonder at this is eaſily remov'd; for where evil accidents are not foreſeen, nor for want of Spirit pre<g ref="char:EOLhyphen"/>vented; where Conſcience does not bind, nor diſtributive Juſtice prevail, there all the Seeds of Weakneſs are ſown, which natu<g ref="char:EOLhyphen"/>rally tends to diſſolution. God, who knew well the faults of ſuch a <hi>Miniſtery,</hi> cull'd and pick'd out at the firſt right Judges in the State, that ſo the Settlement of his People might be ſecur'd; which is a Leſſon to other States (when allow'd by their Prince the choice of their <hi>Magistrate</hi>) to do likewiſe.</p>
+            <pb n="14" facs="tcp:48428:10"/>
+            <p n="2">2. The Rule they follow'd. And that was the <hi>Statutes</hi> and <hi>Ordinances</hi> of the Moſt High. <hi>Moſes</hi> gives this account of himſelf, <hi>Exod.</hi> 18.6. <hi>When the people have a matter they come unto me; and I judge between one and another, and I make them to know the Statutes of God and his Laws.</hi> And it was Gods ſpecial command to <hi>Joſhuah,</hi> 1 <hi>Joſh.</hi> 8. <hi>The Book of the Law ſhall not depart out of thy mouth; but thou ſhalt meditate therein day and night, that thou mayeſt obſerve the Statutes of God and his Laws.</hi>
+            </p>
+            <p>It is true, the <hi>Judicial Law</hi> God gave the <hi>Jews</hi> in order to their <hi>Government</hi> does not now bind <hi>Chriſtians;</hi> it being appointed by him no longer to laſt, than their <hi>State</hi> did, to which thoſe Conſtitutions were attem<g ref="char:EOLhyphen"/>per'd; but with that <hi>State</hi> their Laws were diſſolv'd, and as at the rending of the Veyl of the Temple their <hi>Ceremonies</hi> had a peri<g ref="char:EOLhyphen"/>od, ſo had their <hi>Judgments</hi> too at the de<g ref="char:EOLhyphen"/>ſtruction of their City. Thoſe Rules they generally receiv'd for determining their
+<pb n="15" facs="tcp:48428:10"/>matters of Right and Property were meer<g ref="char:EOLhyphen"/>ly <hi>poſitive;</hi> and being ſo, could oblige only thoſe to whom they were made; whence they ceaſing to be a People, the Force of their Policy likewiſe failed; nor could any <hi>Ordinance</hi> of theirs extend to the World, but by another paſport of Commendation, which <hi>aequity</hi> might give it. Therefore Chri<g ref="char:EOLhyphen"/>ſtian States have conſtantly aſſum'd the li<g ref="char:EOLhyphen"/>berty of governing the Subject their own way, according to the difference of perſons, places, and times; and by reaſon of the va<g ref="char:EOLhyphen"/>riety of Circumſtances which attend every action, have fram'd to themſelves ſeveral Methods of ending their Controverſies.</p>
+            <p>However <hi>Magistrates</hi> ſtill ought to have Scripture for their Guide as well as the <hi>Jews</hi> had, though not in ſuch particular caſes; and from their example are they in<g ref="char:EOLhyphen"/>ſtructed to have recourſe to the rule, which is ſo beneficial to its followers. And the advantages a <hi>Governour</hi> reaps by it are theſe Two:
+<pb n="16" facs="tcp:48428:11"/>
+               <list>
+                  <item>1. In that he learns thence the whole compaſs of his Duty.</item>
+                  <item>2. He is thereby prepar'd to execute it from a right Principle.</item>
+               </list>
+            </p>
+            <p n="1">1. In that he learns thence the whole compaſs of his Duty. Mans Law is very narrow, but Gods is <hi>exceeding broad;</hi> for it meets with all ſinful enormities. Nothing there eſcapes that deſerves puniſhment, nor is left out that may plead a reward. All kind of Sin, and all kind of Vertue is there reveal'd, which the Tables and Books of the old <hi>Heathens</hi> (put all together) do but lamely diſcover to us: and the ground of that imperfection of theirs is plain, becauſe <hi>Reaſon</hi> it ſelf was weak and dim-ſighted, when it dictated to them thoſe Rules; whence their <hi>Government</hi> miſerably failed in thoſe two great Hinges, upon which it turn'd, the Service of God and their Neighbour. Should any doubt of this Truth, let him ſurvey all their Laws for Divine Worſhip; and he will find them to
+<pb n="17" facs="tcp:48428:11"/>be (like their <hi>Idols</hi> and <hi>Sacrifices</hi>) groſs and impure; let him examine their Civil con<g ref="char:EOLhyphen"/>ſtitutions, and he will diſcover the poor Fetters and Chains, which <hi>Juſtice</hi> was bound in; <hi>Mercy</hi> having no <hi>Votaries,</hi> though a <hi>Temple</hi> to her were <hi>Conſecrated.</hi>
+            </p>
+            <p>But from Gods Law a <hi>Magiſtrate</hi> knows all that perfectly belongs to his work; how in regard of that God, he is oblig'd to vindi<g ref="char:EOLhyphen"/>cate the Unity of his Eſſence by a ſingle<g ref="char:EOLhyphen"/>neſs of Worſhip, the Majeſty of his Name with the Reverence of an Oath, and the Holineſs of his Sabbaths with a diſtinction of Duty; in regard of Man he is bound to prop up the Authority of his Prince, to ſup<g ref="char:EOLhyphen"/>preſs Luſt, Lying, Fraud, Extortion; and all manner of Injuſtice in a People. Neither is he only taught thence to root out evil from amongſt Men, but to be their <hi>Miniſter for good: to put on Righteouſneſs as a robe, and Judgment as a Diadem; to lead the blind and ſupport the lame;</hi> i. e. to aſſiſt Weak ones in their Juſt Cauſes, that would be
+<pb n="18" facs="tcp:48428:12"/>otherwiſe overborn. In a word, to mix Mercy with his Juſtice in all his manage<g ref="char:EOLhyphen"/>ment of affairs. For the end of <hi>Govern<g ref="char:EOLhyphen"/>ment</hi> (which this Rule leads us to) is not Wrong nor Violence, but Protection.</p>
+            <p n="2">2. He is thereby prepared to execute it from a right Principle.</p>
+            <p>The <hi>old Judges and Counſellours</hi> by con<g ref="char:EOLhyphen"/>ſulting Gods Law had <hi>Religion</hi> inſtill'd in<g ref="char:EOLhyphen"/>to their Souls; which moſt powerfully works where it comes. <hi>Honour</hi> may enoble a Magiſtrates Acts, and like a <hi>blazing Light,</hi> give a Luſtre to his Station; but Religion (that <hi>burns inward</hi>) reforms his Will and Affections in doing them. This directs him not only to the Worlds Eye, but has a quickning Vertue in ſecret, ſpurring him up to works of Juſtice and Mercy, when no outward conſideration can move him to them; ſo that he is always ready in his Office, which is <hi>tim'd</hi> by others to renown. Thoſe plauſible ſeaſons many make choice of for Judging their Brethren, ſhow they
+<pb n="19" facs="tcp:48428:12"/>love <hi>not to be Magiſtrates,</hi> but to be <hi>known;</hi> whereas a Religious Superiour takes in any time for his Exerciſe, as he does all kind of Perſons for his Cognizance. With him nothing is of force to divert him from, nor to byaſs him in the Employment. Every where his <hi>Government</hi> extends; for that Conſcience, which rules in him (being an Univerſal Principle) will be ſure to evi<g ref="char:EOLhyphen"/>dence it ſelf in its Effects. For this cauſe <hi>Wiſdom</hi> is brought in by <hi>Salomon</hi> emphati<g ref="char:EOLhyphen"/>cally delivering this Truth, <hi>Prov.</hi> 8.20. <hi>I lead in the way of Righteouſneſs, in the midst of the paths of Judgment:</hi> which imports this, that <hi>Religion</hi> and <hi>Juſtice</hi> are naturally united, and altogether inſeparable in their union; none being <hi>just,</hi> but out of a <hi>religi<g ref="char:EOLhyphen"/>ous principle;</hi> as none are <hi>religious,</hi> but by a proof of <hi>juſt</hi> doings. Great cauſe then is there for ſtudying the Rule, wherein the Truth of <hi>Religion</hi> is contain'd.</p>
+            <p>You ſee what Fruits that Study is Crown'd with, and how <hi>Magiſtrates</hi> at firſt
+<pb n="20" facs="tcp:48428:13"/>abounded in them. Would you be emi<g ref="char:EOLhyphen"/>nent in your Places, and give your Fame a wide Country to travel in? Let the Ver<g ref="char:EOLhyphen"/>tues of <hi>Antiquity</hi> be tranſcribed. I know the world is generally apt to cry up <hi>Antiquity;</hi> but what does it there chiefly propound for its imitation, except the Habits and Garbs, or rather the Errours and Faults of it? which is like the madneſs of that <hi>Pilgrim,</hi> who pays his Devotion to an <hi>old Monu<g ref="char:EOLhyphen"/>ment,</hi> not for the <hi>Famous</hi> acts it repreſents, but for the <hi>Rubbiſh</hi> that lies there. Now thoſe that rightly follow the <hi>Ancients,</hi> do doubly honour the State they live in; for they bring upon the ſtage their Forefathers Glory and their own. I proceed now to the laſt head of my Diſcourſe; which is this,</p>
+            <p n="3">3. That the Natural Iſſue of a <hi>Govern<g ref="char:EOLhyphen"/>ment</hi> thus qualify'd is the Reputation of Uprightneſs, and Truth in all the Mem<g ref="char:EOLhyphen"/>bers — <hi>Afterwards thou ſhalt be call'd the City of Righteouſneſs, the Faithful City.</hi>
+            </p>
+            <p>Theſe two words, <hi>Righteous</hi> and <hi>Faith<g ref="char:EOLhyphen"/>ful</hi>
+               <pb n="21" facs="tcp:48428:13"/>comprehend in them all the Duties of both Tables; for they imply <hi>Faithfulneſs</hi> to God, and <hi>Righteouſneſs</hi> towards men; ſo that when a City is Dignifi'd with them, it has all the Praiſe that <hi>Religion</hi> may chal<g ref="char:EOLhyphen"/>lenge.</p>
+            <p>In the management of this Point I ſhall do two things.</p>
+            <list>
+               <item>1. Show the Vertue of Good Magi<g ref="char:EOLhyphen"/>ſtrates in deriving the <hi>fame of religion</hi> to that <hi>City</hi> where they are planted.</item>
+               <item>2. Diſcover the Nobleneſs of that Character to be call'd the <hi>Righteous and Faithful City.</hi>
+               </item>
+            </list>
+            <p n="1">I. Show the Vertue of Good Magi<g ref="char:EOLhyphen"/>ſtrates, <hi>&amp;c.</hi> — What Influence the <hi>Na<g ref="char:EOLhyphen"/>tural</hi> head has upon the body in deriving to all parts thereof ſenſe and motion, that the <hi>Civil</hi> has upon its members: The good <hi>ſpi<g ref="char:EOLhyphen"/>rits,</hi> that are convey'd thence, give a vigour to the whole. One great reaſon why <hi>Chriſts doctrine</hi> was ſo low at the firſt <hi>publiſhing</hi> of it to the world, was becauſe <hi>the Rulers beleev'd
+<pb n="22" facs="tcp:48428:14"/>not in him;</hi> whence the Vulgar were taught to deſpiſe it; who ſlaviſhly depend upon their Rulers Senſe, and bind to the ſame <hi>Chair</hi> a Religious Faith and a Civil Obe<g ref="char:EOLhyphen"/>dience. It is true, <hi>Religion</hi> has powerful charms of its own to perſwade; but though the Principles of it be lovely and beaute<g ref="char:EOLhyphen"/>ous in themſelves, yet they need a ſetting off by an eminent <hi>Example.</hi> The Multi<g ref="char:EOLhyphen"/>tude inquires not into the nature of the <hi>Coyn,</hi> but what is the Princes <hi>Superſcription;</hi> it regards not the Intrinſick Worth of a <hi>Jewel,</hi> but the Nobleneſs of the <hi>Hand</hi> that wears it. Should that be wanting, all the <hi>Rays</hi> it caſts, are <hi>dimn;</hi> and <hi>Night</hi> ſeems to cover its Brightneſs. Now whenever <hi>Rulers</hi> embrace the Faith, they lay all their <hi>Enſigns</hi> of Dignity upon it; they ſet it with <hi>Joſeph</hi> in the <hi>Royal Chariot,</hi> whereby it is commended to a People. With that ſight, their Curioſity is rais'd to examin the Grounds; but without much ſearch, they yield to the Motives, becauſe <hi>Piety</hi> ſtrikes
+<pb n="23" facs="tcp:48428:14"/>them with a <hi>double Light,</hi> and ſo takes off all pretence of reſiſtance.</p>
+            <p>Thus the Manners of Inferiours are form'd; and the general Art of Subjects Living in the world, is (what <hi>Ariſtotle</hi> de<g ref="char:EOLhyphen"/>fines Poeſie to be) an <hi>Art of Imitation;</hi> where ſomething without is figur'd to them to follow. And you all know the great Object, propos'd to every ones obſerva<g ref="char:EOLhyphen"/>tion, is the <hi>Chief Magiſtrate;</hi> who by rea<g ref="char:EOLhyphen"/>ſon of the Eminency of his Place, and the Honourable Stamp that is put on him, commands every ones regard; whence they readily copy out the Goodneſs of his Actions. If Men be not inwardly alter'd or chang'd, yet to appearance they will be ſo; for the Sword that he has, takes an Edge from his Life; and it is an Edge of that Sharpneſs, that it will ſurely prevail to cut off <hi>Scandal,</hi> though it cannot kill <hi>Hypocriſie.</hi> The <hi>Stench</hi> of the Carkaſe will be certainly remov'd, though the <hi>Whited Sepulchre</hi> continue.</p>
+            <pb n="24" facs="tcp:48428:15"/>
+            <p>It is the nature of <hi>Vertue,</hi> to check and awe the Spirits of thoſe, that are moſt vi<g ref="char:EOLhyphen"/>tiouſly inclin'd; but then it effectually pierces when it comes arm'd with <hi>Authority</hi> to govern them. That <hi>inward reverence</hi> it naturally creates, proves now a <hi>Law</hi> to mens paſſions; and curbs the effects of them with the <hi>Scepter</hi> of Rule. Who can chuſe under ſuch a State, but ſeek the Fame of Well-doing, when both <hi>Reaſon and Fear</hi> joyn their forces to bind him? It were eaſie for me to produce inſtances in thoſe <hi>Godly Magiſtrates</hi> of the <hi>Jewiſh Church;</hi> from whom the Church gain'd a Name, and Re<g ref="char:EOLhyphen"/>ligion a Power to oblige. Then was the Temple it ſelf judg'd Sacred, and every Sacrifice had its value; then the whole Ser<g ref="char:EOLhyphen"/>vice of God flouriſhed, becauſe the Magi<g ref="char:EOLhyphen"/>ſtrate upheld it with his Devotion. Such is the Force of a Law-giver, when he makes thoſe Laws, he enjoyns, as ſo many Axioms proceeding out of his own deeds.</p>
+            <p>But on the contrary, a <hi>wicked Governour</hi>
+               <pb n="25" facs="tcp:48428:15"/>brands his Seat with Infamy, letting looſe by his example the Vices of other Men: which, gathering their ſtrength from Natu<g ref="char:EOLhyphen"/>ral corruption, are hardly ſtopt; but then they eaſily flow forth, when they can borrow from <hi>Dignity</hi> a colour for <hi>Shame.</hi> We read <hi>Eli</hi>'s Sons for miſcarriages in the Prieſthood made the People to abhor the Offering of the Lord, 1 <hi>Sam.</hi> 2.17. Certainly no leſs do Governours in their ſtation vilify Gods Worſhip, when profaneneſs by their practiſe is indulg'd. For <hi>stains,</hi> in the <hi>Robe,</hi> ſeem <hi>Graces</hi> to ſinners; and Vice loſes with them the deformity of its <hi>ſhape,</hi> when it takes Greatneſs to <hi>cloath</hi> it. Therefore you are bound both now and at all times to be heed<g ref="char:EOLhyphen"/>ful in your choice, where the credit of Re<g ref="char:EOLhyphen"/>ligion is concern'd. I proceed to diſcover;</p>
+            <p n="2">II. The Nobleneſs of that Character to be call'd <hi>the Righteous and Faithful City</hi>—</p>
+            <p>All ſorts of People in the world are am<g ref="char:EOLhyphen"/>bitious of a <hi>Name,</hi> as a refreſhing Shadow, which adds to the Pleaſure of their beings;
+<pb n="26" facs="tcp:48428:16"/>but moſt are ignorant wherein the excel<g ref="char:EOLhyphen"/>lency of it conſiſts. Some place it in great<g ref="char:EOLhyphen"/>neſs of <hi>Wealth,</hi> others in power of <hi>Arms,</hi> a third in the force of <hi>Eloquence,</hi> that com<g ref="char:EOLhyphen"/>mands both; but the bright name of <hi>Reli<g ref="char:EOLhyphen"/>gion</hi> is utterly ras'd out by them, as if it were fitter to be fix'd upon the Walls of a <hi>Cloy<g ref="char:EOLhyphen"/>ſter,</hi> than a <hi>City.</hi> But to evidence the groſ<g ref="char:EOLhyphen"/>neſs of this their miſtake, conſider with me theſe two particulars:
+<list>
+                  <item>1. The Advantage which the <hi>Name</hi> of Religion carries in it ſelf.</item>
+                  <item>2. How it excels all other Names by a compariſon.</item>
+               </list>
+            </p>
+            <p n="1">I. As to the Advantage of the <hi>Name;</hi> This will appear, if we regard it as mans greateſt <hi>Ornament,</hi> and his beſt <hi>Shield:</hi> his greateſt <hi>Ornament;</hi> for it ſets out the higheſt perfection of his Nature: his beſt <hi>Shield;</hi> for it contains in it a God to defend him. None can deny the firſt of theſe, that will allow Reaſon to be mans Form, and the top of that reaſon the Worſhip of a Divi<g ref="char:EOLhyphen"/>nity.
+<pb n="27" facs="tcp:48428:16"/>The name then that imports this, muſt needs be moſt honourable to a People. What can more grace us, than to be crown'd with the Praiſe of Intellectual be<g ref="char:EOLhyphen"/>ings, and bearing the ſtamp of a <hi>Soveraign</hi> mind? Does not the Pride of our Natures lye here? And is it not the Fame of Reli<g ref="char:EOLhyphen"/>gion that ſpeaks it? Where ſhall Honour have place, if the ground of all Honour be excluded?</p>
+            <p>Of all Priviledges we would aſpire to, theſe <hi>Two</hi> are the greateſt, an <hi>
+                  <g ref="char:V">Ʋ</g>nderſtanding enlarg'd,</hi> and a <hi>Will Sanctified.</hi> By the one we come to <hi>conceive</hi> the beſt object, by the other to <hi>reſemble</hi> Him. And both theſe Re<g ref="char:EOLhyphen"/>ligion beſtows; for it begets in us a <hi>Know<g ref="char:EOLhyphen"/>ledge</hi> of our God, and a <hi>likeneſs</hi> to him: which whoever reflects on, will be forc'd to admire the Beauty of its appearance, and learn to deſpiſe all lower accompliſhments, as a mean <hi>dreſs,</hi> that ſerves not ſo much to <hi>ſhow,</hi> as <hi>diſguiſe</hi> the Wearers. Here we are properly ſeen as <hi>Men,</hi> and proclaim to the
+<pb n="28" facs="tcp:48428:17"/>world the true birth of our Souls, which though they be Heavenly <hi>Sparks,</hi> yet af<g ref="char:EOLhyphen"/>ford no <hi>Light,</hi> till they are <hi>blown</hi> to a <hi>Flame</hi> from a <hi>Religious</hi> exerciſe. Theſe things con<g ref="char:EOLhyphen"/>ſider'd, how can we chuſe but engage in that courſe, where as our operations are at their <hi>Height,</hi> ſo they are in their <hi>Brightneſs</hi> repreſented to the world!</p>
+            <p>But it may be an <hi>Ornament,</hi> yet defence<g ref="char:EOLhyphen"/>leſs; therefore the <hi>Name</hi> of Religion has that farther excellency of a <hi>Shield</hi> to pro<g ref="char:EOLhyphen"/>tect thoſe it adorns. A City (thus renown'd) mates its enemies with fear: the very ſound of its God, conquers: It is like that ima<g ref="char:EOLhyphen"/>gin'd <hi>Noiſe of Horſes and Chariots wherewith an Hoſt of the Syrians was diſcomfited.</hi>
+               <note place="margin">2 <hi>Kings</hi> 7.6.</note> So ſub<g ref="char:EOLhyphen"/>ject are men to the Impreſſions of a Deity, that a Nation becomes terrible, when once thought by that Deity to be loved. In this caſe every <hi>Prieſt</hi> is reckon'd a <hi>Souldier,</hi> and every <hi>Temple</hi> counted to be built a <hi>Cita<g ref="char:EOLhyphen"/>del</hi> for War; whence though real Aids and Strengths may be wanting, yet they are
+<pb n="29" facs="tcp:48428:17"/>abundantly ſupply'd by an Adverſaries apprehenſion. Even the <hi>Heathens</hi> rely'd up<g ref="char:EOLhyphen"/>on this; and thoſe Cities of theirs, that more peculiarly ſerved their Gods, fear'd not any Enemies would aſſault them; becauſe they knew the <hi>Reverence</hi> of opinion was a ſuf<g ref="char:EOLhyphen"/>ficient <hi>guard</hi> to defend. How much more would a <hi>known</hi> Truth of Worſhip, ſecure men from the hoſtility of others, who being convinc'd of the ſinfulneſs of the Act, toge<g ref="char:EOLhyphen"/>ther with the Majeſty of the Avenger, muſt needs tremble at the Crime! You ſee the Advantage of the Name in it ſelf. Conſider</p>
+            <p n="2">II. How it excels all other <hi>Names</hi> by a compariſon.</p>
+            <p>The great Renown moſt Cities have purchas'd in the world is either for <hi>Arts,</hi> for <hi>Riches,</hi> or the <hi>warlike Valour</hi> of the Inha<g ref="char:EOLhyphen"/>bitants; but all this is nothing anſwerable to that eſteem gain'd by <hi>Religion.</hi>
+            </p>
+            <p>I confeſs <hi>Arts</hi> have an Intrinſick worth; but then they are not uſeful to another World; and ſome here, though they may improve
+<pb n="30" facs="tcp:48428:18"/>the Underſtanding, yet they do not per<g ref="char:EOLhyphen"/>fect the Will: therefore <hi>Fame mounts</hi> but little, when born upon the <hi>Wings</hi> of them. But as for <hi>riches,</hi> they have no worth at all; it is the Opinion of Men gives them their value; and beſides, their Tyrannical nature is, to vex and oppreſs their own Maſters: therefore <hi>Fame</hi> here <hi>creeps</hi> on the Ground, not being able to get upward by reaſon of the <hi>Weight</hi> of its bur<g ref="char:EOLhyphen"/>den. Laſtly for <hi>warlike Valour:</hi> It is in<g ref="char:EOLhyphen"/>deed helpful to a State, and conduces not only to the defence, but to the enlargement of a Dominion; yet withal, it generally lyes in a <hi>Brutiſh force,</hi> and is many times employ'd in that ſad Work of ruining Kingdoms, and planting a Wilderneſs in their Cities; whence, if the <hi>Fame</hi> of ſuch acts <hi>flyes,</hi> it leaves ſo <hi>bloody</hi> a track in the flight, that it <hi>stains</hi> the Glory. All theſe (I have mentioned) do not reach humane Excellency, nor come up to that perfection we deſire.</p>
+            <pb n="31" facs="tcp:48428:18"/>
+            <p>But <hi>Religion</hi> is uſeful to <hi>another</hi> World; being the ready way to it; by <hi>perfecting</hi> our Wills, as well as <hi>enlarging</hi> our Under<g ref="char:EOLhyphen"/>ſtandings: It has all <hi>worth</hi> in it, that ſo ex<g ref="char:EOLhyphen"/>cellent an object, as God can beſtow; in regard of Mankind it is <hi>Beneficial,</hi> a true ſervant to our Peace and Intereſt, quench<g ref="char:EOLhyphen"/>ing all thoſe Heats and Paſſions that di<g ref="char:EOLhyphen"/>ſturb it. To conclude, it is every way love<g ref="char:EOLhyphen"/>ly, whether you regard its good here, or its reward hereafter. Therefore the <hi>Fame</hi> of ſuch works is in its flight <hi>High and Cleet,</hi> like that <hi>Heaven</hi> whither they tend. VVhy ſhould we not then ſtir up our Ambition to purſue it, and leave our queſt of any other <hi>renown,</hi> that is ſo low and ſinking? VVill the Reputation of <hi>Arts, Riches, or Valour,</hi> ſtick to us at the Day when a proof of their help is expected? Behold! they treacherouſly leave us in our needs: where<g ref="char:EOLhyphen"/>as the <hi>Good Name</hi> of a <hi>Chriſtian</hi> ſtands cloſe by Us at the Hour of Death to <hi>ſweeten</hi> the Pangs, and remains after Death to <hi>embalm</hi> Us.</p>
+            <pb n="32" facs="tcp:48428:19"/>
+            <p>I ſhall ſhut up all in one word of Ap<g ref="char:EOLhyphen"/>plication.</p>
+            <p>One great Buſineſs of this day, and the deſign of this Aſſembly, is the Election of your chief Magiſtrate; a Work highly Uſeful to the Church, as it is Serviceable to the State: Therefore a good Choice may <hi>Conſecrate</hi> the <hi>Day,</hi> when a bad one <hi>Profanes</hi> it. The Pattern of Government I have already propos'd; the Vertue of it I have ſhown, and what Honour attends a People thus Govern'd: Upon You all theſe depend, and in You reſts the perfect<g ref="char:EOLhyphen"/>ing of Your City. Then will Your <hi>Walls</hi> ſurely ſtand, and in their full Beauty be preſerved, when You conſtantly Elect <hi>Men</hi> to <hi>defend,</hi> and <hi>Christians</hi> to <hi>bleſs</hi> them. Alas! what does all the pomp of Power ſignify, or the Stock of Your Riches with<g ref="char:EOLhyphen"/>out <hi>Rule?</hi> Is not that <hi>River</hi> You <hi>trade</hi> by, an emblem of their Vanity? which <hi>flows</hi> in a full Tide, when it conveys Your Wealth, and <hi>ebbs</hi> again, to mind You of
+<pb n="33" facs="tcp:48428:19"/>the ſhortneſs of its ſtay. But where Good Rulers are ſetled, there Greatneſs is <hi>fix'd,</hi> and Fame too, with all the advantages that follow it.</p>
+            <p>This City, I now ſpeak to, may deſer<g ref="char:EOLhyphen"/>vedly be compar'd to the Greateſt Cities in the World, whether we regard the No<g ref="char:EOLhyphen"/>bleneſs of the Works, or the Strength of the Inhabitants: Men fit to <hi>buy</hi> Kingdoms, nay, (which is greater) to <hi>Conquer</hi> them: Your Magiſtrates alſo have of late Years excell'd in the <hi>Order, Wiſdom,</hi> and <hi>Loyalty</hi> of their Rule; nothing remains, but a continuance of that Exerciſe, and a farther advancing of Gods Church, by ſuppreſ<g ref="char:EOLhyphen"/>ſing Vice in the Subject. The <hi>buildings</hi> of Your Walls are quickly diſpatch'd; but here the <hi>Building</hi> muſt be always carry'd on; nor can it ever be thought finiſhable, while corruption prevails. Oh let no tu<g ref="char:EOLhyphen"/>mults be heard in that work, nor Innocent <hi>blood</hi> ſeen, to make Your <hi>mortar</hi> ill-tem<g ref="char:EOLhyphen"/>per'd; let the Voice of Peace be heard in
+<pb n="34" facs="tcp:48428:20"/>Your Streets, and of Juſtice in Your Aſ<g ref="char:EOLhyphen"/>ſemblies; let Gods Church and Truths be upheld, and Debauchery kept from mocking Your Sabbaths; in a word, make good Your <hi>City-Arms</hi> in the ſtrictneſs of a Chriſtian Profeſſion with <hi>Loyalty</hi> joyn'd. Upon both accounts, a Good <hi>Magiſtrate</hi> is neceſſary for maintaining Faith and Obedience in the multitude, to which they are led not ſo much by ſtanding Laws, as by Life and Practice. From ſuch a one they eaſily learn, whatever is praiſe-wor<g ref="char:EOLhyphen"/>thy; and dutifully regard every Order he ſets up, as an <hi>Image</hi> of that Vertue He exerciſes; but ſhould his manners fail, ſhould he caſt off Conſcience and turn wicked, all his Orders, though never ſo good, will (like Bodies upon Gibbets) be contemn'd. Judge You what will follow that contempt; Evils ſo ſharp and preſ<g ref="char:EOLhyphen"/>ſing, that the late Calamities (if compar'd to them) are but little <hi>Eſſayes</hi> of Judg<g ref="char:EOLhyphen"/>ment. The Plague and Fire, You have
+<pb n="35" facs="tcp:48428:20"/>endur'd are nothing ſo deſtructive, as a <hi>had Government;</hi> for this is a <hi>Plague</hi> of a ſtrange Taint, that ſeizes the Soul, and a <hi>Fire</hi> of an operation as ſtrange, where the <hi>gold</hi> only waſts, and the <hi>droſs</hi> encreaſes. Oh! how would this City be lifted up, did both Magiſtrate and People unite in the Buil<g ref="char:EOLhyphen"/>ding! Can ever Your <hi>breaches</hi> be fill'd but by a <hi>leading</hi> hand, or Your <hi>ruins</hi> heal'd without good <hi>Architects</hi> to cure them? Still (Right Honourable) will this City lye deſolate, if Sin be not remov'd by the Authority of Examples. By them muſt Your Greatneſs be confirm'd, who can add to your Glory, what will defend Your Glory? The title of a <hi>Righteous and Faith<g ref="char:EOLhyphen"/>ful City.</hi> —</p>
+            <closer>
+               <hi rend="blackletterType">Now to God the Father, to God the Son, and to God the Holy-Ghoſt be aſcrib'd,</hi> &amp;c.—</closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
